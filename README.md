@@ -24,6 +24,4 @@ The analysis revealed that smoking status and age are significant factors affect
 
 The output will look something like this:
 
-Model	           MSE	      R^2
-Random Forest	  20,000,000	0.87
-SVR	            25,000,000	0.82
+
