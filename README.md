@@ -21,3 +21,9 @@ The dataset used in this project is the [Medical Cost Personal Datasets](https:/
 
 ## Results
 The analysis revealed that smoking status and age are significant factors affecting medical charges. Visualizations and a predictive model were created to support these findings.
+
+The output will look something like this:
+
+Model	           MSE	      R^2
+Random Forest	  20,000,000	0.87
+SVR	            25,000,000	0.82
